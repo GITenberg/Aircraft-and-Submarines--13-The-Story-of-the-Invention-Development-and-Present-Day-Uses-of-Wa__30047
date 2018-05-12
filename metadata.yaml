@@ -1,0 +1,34 @@
+_repo: Aircraft-and-Submarines--13-The-Story-of-the-Invention-Development-and-Present-Day-Uses-of-Wa__30047
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbot, Willis J. (Willis John)
+    alias: Abbot, Willis John
+    birthdate: 1863
+    deathdate: 1934
+    gutenberg_agent_id: '6179'
+    url: http://www.gutenberg.org/2009/agents/6179
+    wikipedia: http://en.wikipedia.org/wiki/Willis_J._Abbot
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2009-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30047'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics, Military'
+- !lcsh 'World War, 1914-1918 -- Aerial operations'
+- !lcsh 'Aeronautics'
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Submarine'
+- !lcsh 'Submarines (Ships)'
+- !lcc 'UG'
+title: "Aircraft and Submarines\r\nThe Story of the Invention, Development, and Present-Day\
+  \ Uses of War's Newest Weapons"
+url: http://www.gutenberg.org/ebooks/30047
